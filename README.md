@@ -95,3 +95,5 @@ Product Insights: Printers are the most profitable, while Accessories and Tables
 Seasonal Planning: Profit dips in July and December suggest seasonal challenges—ideal months for discount or promotional campaigns.
 
 Customer Behavior: Payment mode distribution helps align with customer preferences (e.g., offering discounts on popular payment types).
+##Screenshot
+https://github.com/MeherunNesa003/E-Commerce-Sales-Dashboard-Power-BI-project-1st-/blob/main/Power%20BI%201st%20Project.png
